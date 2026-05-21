@@ -1,6 +1,5 @@
 package com.jospin.gestion_stock.mouvementstock.repository;
 
-import com.jospin.gestion_stock.mouvementstock.dto.DetailMouvementResponseDTO;
 import com.jospin.gestion_stock.mouvementstock.entity.DetailMouvement;
 import com.jospin.gestion_stock.mouvementstock.entity.TypeMouvement;
 import org.springframework.data.jpa.repository.JpaRepository;

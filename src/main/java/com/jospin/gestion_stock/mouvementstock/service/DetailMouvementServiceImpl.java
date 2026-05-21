@@ -4,7 +4,6 @@ import com.jospin.gestion_stock.mouvementstock.dto.DetailMouvementResponseDTO;
 import com.jospin.gestion_stock.mouvementstock.entity.DetailMouvement;
 import com.jospin.gestion_stock.mouvementstock.mapper.DetailMouvementMapper;
 import com.jospin.gestion_stock.mouvementstock.repository.DetailMouvementRepository;
-import com.jospin.gestion_stock.mouvementstock.service.DetailMouvementService;
 import com.jospin.gestion_stock.validations.ValidationErrorType;
 import com.jospin.gestion_stock.validations.ValidationException;
 import com.jospin.gestion_stock.validations.ValidationHandle;

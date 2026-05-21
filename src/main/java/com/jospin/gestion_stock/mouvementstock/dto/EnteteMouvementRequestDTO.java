@@ -4,7 +4,6 @@ import com.jospin.gestion_stock.mouvementstock.entity.TypeMouvement;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.*;
 import lombok.*;
-import java.time.LocalDateTime;
 import java.util.List;
 
 @Getter
