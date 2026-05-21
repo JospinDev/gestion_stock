@@ -15,7 +15,6 @@ import com.jospin.gestion_stock.mouvementstock.mapper.EnteteMouvementMapper;
 import com.jospin.gestion_stock.article.repository.ArticleRepository;
 import com.jospin.gestion_stock.mouvementstock.repository.DetailMouvementRepository;
 import com.jospin.gestion_stock.mouvementstock.repository.EnteteMouvementRepository;
-import com.jospin.gestion_stock.mouvementstock.service.EnteteMouvementService;
 import com.jospin.gestion_stock.validations.ValidationErrorType;
 import com.jospin.gestion_stock.validations.ValidationException;
 import com.jospin.gestion_stock.validations.ValidationHandle;
