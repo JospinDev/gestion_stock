@@ -14,9 +14,6 @@ public class ArticleResponseDTO {
     private String code;
     private String designation;
     private Entrepot entrepot;
-    private Long idEntrepot;
-    private String entrepotCode;
-    private String entrepotDesignation;
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
 }
